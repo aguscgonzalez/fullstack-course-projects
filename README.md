@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finalangular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# fullstack-course-projects
+Proyectos desarrollados durante un curso de Full Stack, incluyendo aplicaciones y ejercicios prácticos utilizando React, Angular ,Node y otras tecnologías relacionadas.
+>>>>>>> f0047c50ae301128889d636679762c5bcb64e4b7
